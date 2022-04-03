@@ -14,7 +14,6 @@
 */
 int getInt8(uint8_t *var,)
 {
-    printf("heloe");
     uint8_t retVal = 0;                                                         /*variable to return you enter value is ok or not*/
     uint32_t newVar;                                                            /* variable to receive your value*/
     fflush(stdin);
